@@ -59,4 +59,8 @@ typings/
 # dotenv environment variables file
 .env
 
+#webstorm client files
+**/.idea/workspace.xml
+**/.idea/tasks.xml
+
 
